@@ -9,4 +9,4 @@ you can use any source of text you'd like, i choose to use my discord messages s
 to process your discord data, run python process.py
 
 # step 2 
-cleaning the data to be suitable for training. while 
+tokenizing the data. from now on, my code is being run on runpod 4x A100

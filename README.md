@@ -13,4 +13,6 @@ to process your discord data, run python process.py
 # step 2 
 tokenizing the data. from now on, my code is being run on runpod 4x A100, but you can also run it on your local computre. run tokenize_documents.ipynb
 
+# step 3
+to finetune run finetune.ipynb 
 your finetuned model should now be saved where you wanted it to be

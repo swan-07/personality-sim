@@ -1,5 +1,5 @@
 # personality sim chatbot
-fine tune an llm on your text using lora
+fine tune an llm on your text using lora and quantization
 
 # how to do
 

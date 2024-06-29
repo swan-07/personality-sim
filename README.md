@@ -16,3 +16,5 @@ tokenizing the data. from now on, my code is being run on runpod 4x A100, but yo
 # step 3
 to finetune run finetune.ipynb 
 your finetuned model should now be saved where you wanted it to be
+
+now you can test talking to it in evaluate.ipynb

@@ -18,3 +18,4 @@ to finetune run finetune.ipynb
 your finetuned model should now be saved where you wanted it to be
 
 now you can test talking to it in evaluate.ipynb
+<img width="851" alt="Screenshot 2024-08-30 at 2 03 14 PM" src="https://github.com/user-attachments/assets/702d2004-6744-4200-9d6f-f45d1006e539">
